@@ -45,6 +45,6 @@ This page gives an overview of accepted grants and a link to their GitHubs. Keep
 | 秦晓芬                                            | WeLend (Compond迁移)            |                                                              |
 | 郑浩/PlatON  Fans                                 | Lato-NFT                        |                                                              |
 | 徐松松(itokenpool)                                | 区块链浏览器                    | https://www.alayascan.com/                                   |
-| 范亮琴                                            | SDK go版本开发                  |                                                              |
+| 范亮琴                                            | SDK go版本开发                  |  https://github.com/oldmanfan/platon-go-sdk                                                            |
 | 秦晓分                                            | alaya solidity合约sdk           |                                                              |
 | 葛仁磊                                            | JS SDK扩展与说明文档            |                                                              |
