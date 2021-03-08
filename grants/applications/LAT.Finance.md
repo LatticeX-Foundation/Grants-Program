@@ -43,10 +43,6 @@ https://github.com/LAT-Finance
 
 AvaLuo
 
-* **联系方式:** 
-
-wechat: crypto_block
-
 ### 团队背景及经验
 
 拿铁金融团队由去中心化金融爱好者组成，长期参与以太坊和波卡生态，从 2018 年开始深度参与 PlatON 生态建设。
