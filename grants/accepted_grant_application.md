@@ -34,7 +34,6 @@ This page gives an overview of accepted grants and a link to their GitHubs. Keep
 ##  Wave 2 - first-quarter-2021
 | 团队                                              | 项目名称                        | Github or CodeLink                                           |
 | ------------------------------------------------- | ------------------------------- | ------------------------------------------------------------ |
-| 六道轮回（夏宇）                                  | DREAMSWAP                       |
 | GeekMeta  核心团队（陈朝冰）                      | 社区合作-GeekMeta团队           |                                                              |
 | xpool节点-郭红杰                                  | platdot跨链                     |                                                              |
 | 吕文哲（bychain)                                  | PlatON和Alaya的Ruby SDK         |                                                              |
@@ -42,7 +41,6 @@ This page gives an overview of accepted grants and a link to their GitHubs. Keep
 | Kilmas                                            | QinGahSwap                      | https://github.com/kilmas                                    |
 | Manuel  Francisco Diaz                            | AlayaScan移动端定制             | https://github.com/liaojikunwork                             |
 | 张榕锦                                            | AlayaScan-ARC721需求开发        | [https://github.com/zhangrongjin/browser-server](https://github.com/PlatONnetwork/browser-server) |
-| 秦晓芬                                            | WeLend (Compond迁移)            |                                                              |
 | 郑浩/PlatON  Fans                                 | Lato-NFT                        |                                                              |
 | 徐松松(itokenpool)                                | 区块链浏览器                    | https://www.alayascan.com/                                   |
 | 范亮琴                                            | SDK go版本开发                  |  https://github.com/oldmanfan/platon-go-sdk                                                            |
