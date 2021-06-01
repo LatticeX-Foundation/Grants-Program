@@ -25,7 +25,7 @@ This page gives an overview of accepted grants and a link to their GitHubs. Keep
 | Ourea  (Shanghai) Information Technology Co., Ltd | 社区拓展                        |                                                              |
 | 刘毅                                              | 以太坊-Alaya双向跨链            |                                                              |
 | Ownership  Labs                                   | Data Token项目                  |                                                              |
-| 黑曜石实验室  Obsidian Labs                       | 合约IDE工具                     |                                                              |
+| 黑曜石实验室  Obsidian Labs                       | 合约IDE工具                     |  https://github.com/ObsidianLabs/PlatON-Studio                                                            |
 | Bit Cat  团队（刘志）                             | 数据快照                        |
 | 任晖（haypo）                                     | SDK小工具开发                   |                                                              |
 | AvaLuo                                            | LAT.Finance                     | https://github.com/LAT-Finance                               |
