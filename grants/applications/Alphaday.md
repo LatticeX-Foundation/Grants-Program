@@ -26,7 +26,9 @@ https://github.com/AlphadayHQ
 Team name or organization name: Alphabox Solutions Pte. Ltd.
 Team members:
 | Member Name | GitHub Code Repos | LinkedIn Profiles (if available) |
+
 | Felipe Faraggi | https://github.com/faraggi | https://www.linkedin.com/in/faraggi/ |
+
 | Pablo Palomo | https://github.com/ppalomo | https://www.linkedin.com/in/pablo-palomo-07127711/ |
 | Vicente Almonacid | https://github.com/v-almonacid | https://www.linkedin.com/in/vicente-almonacid/ |
 | Jonathan Irhodia | https://github.com/elcharitas | https://linkedin.com/in/elcharitas |
