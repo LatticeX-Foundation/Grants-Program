@@ -6,6 +6,7 @@ Project: Alphaday
 
 Alphaday is a powerful crypto workflow aggregator that pulls in news, on-chain data, social media, web3 services and much more into one customizable UI
 We’ve been followers and fans of PlatON Network for a long time and its decentralized, privacy-centric & scalable infrastructure resonates with us since we’ve been trying to build and deploy web3 products for the last 5 years. Our product, Alphaday, will aggregate all the information across the PlatON Network ecosystem into one easy-to-use dashboard so we’re pretty excited to be able to contribute to this ecosystem and its large community.
+
 Alphaday builds crypto experience dashboards for enthusiasts, developers, and projects. Users can drag and drop from hundreds of services, news and social feeds, charts, and dapp functionality to create their daily workflows inside a single dashboard. This eliminates the need to have multiple browser tabs open to get different bits of information. i.e. imagine having token prices, gas prices, twitter feed, latest news headlines, TVL, borrowing rates and any other information any user could possibly want all within one single dashboard. 
 
 **Project Details**
@@ -25,14 +26,17 @@ https://github.com/AlphadayHQ
 
 Team name or organization name: Alphabox Solutions Pte. Ltd.
 Team members:
+
 | Member Name | GitHub Code Repos | LinkedIn Profiles (if available) |
 
 | Felipe Faraggi | https://github.com/faraggi | https://www.linkedin.com/in/faraggi/ |
 
 | Pablo Palomo | https://github.com/ppalomo | https://www.linkedin.com/in/pablo-palomo-07127711/ |
+
 | Vicente Almonacid | https://github.com/v-almonacid | https://www.linkedin.com/in/vicente-almonacid/ |
-| Jonathan Irhodia | https://github.com/elcharitas | https://linkedin.com/in/elcharitas |
-| Charles Nwankwo | https://github.com/Xavier-Charles | https://www.linkedin.com/in/charles-nwankwo-01/ |
+
+| Jonathan Irhodia | https://github.com/elcharitas | https://linkedin.com/in/elcharitas | \
+| Charles Nwankwo | https://github.com/Xavier-Charles | https://www.linkedin.com/in/charles-nwankwo-01/ | \
 | Gideon Anyalewechi | https://github.com/getgiddy | https://www.linkedin.com/in/getgiddy/ |
 
 **Contact**
