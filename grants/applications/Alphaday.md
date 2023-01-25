@@ -11,8 +11,8 @@ Alphaday builds crypto experience dashboards for enthusiasts, developers, and pr
 
 **Project Details**
 
-Pitch Deck: https://bit.ly/Alphadaydeck
-Our product is already live in Beta: https://app.alphaday.com/
+Pitch Deck: https://bit.ly/Alphadaydeck \
+Our product is already live in Beta: https://app.alphaday.com/ \
 Alphaday is a React-Typescript dashboard on the frontend using a Python-Django backend built on distributed infrastructure with Postgres and Redis Databases.
 
 **Project Advantages**
@@ -59,7 +59,7 @@ Overview: \
 We would like to create a PlatON Network ecosystem dashboard that aggregates the following information into a single community dashboard: \
 Total Estimated Duration: 2 months for development and initial deployment \
 Full-Time Equivalent (FTE): 1 \
-Total Costs: 2,400 USD \
+Total Costs: 2,400 USD
 
 Milestone 1 —— Development and Deployment of initial Dashboard \
 Estimated duration: 2 months \
@@ -75,14 +75,14 @@ Costs: 1,500 USD \
 |7| Forum | Integration with PlatON Network Forum to show the latest and trending discussion topics. | \
 |8| Social Media | Twitter, Reddit, Discord, & Telegram Integration to show a feed of latest discussions. | \
 |9| Other Information | Whitepapers, Bluepaper, LAT tokenomics information. | \
-|10| Ecosystem | Links and descriptions of Dapps and other platforms within the PlatON Network ecosystem. | \
+|10| Ecosystem | Links and descriptions of Dapps and other platforms within the PlatON Network ecosystem. | 
 
 Milestone 2 —— Maintenance of Dashboard \
 Estimated duration: 12 months \
 FTE: 0.5 \
 Costs: 1,500 USD \
 | Number | Deliverable | Specification | \
-|1| Maintenance of Dashboard | 12 months of maintenance including having an Alphaday content analyst quality-checking the dashboard every day. | \
+|1| Maintenance of Dashboard | 12 months of maintenance including having an Alphaday content analyst quality-checking the dashboard every day. |
 
 **Future Plans**
 
